@@ -1,1 +1,1 @@
-This repository contain all of my finished tasks from [Go-stepik](https://stepik.org/course/51100/syllabus) course.
+This repository contain all of my finished tasks from various online courses from stepik and coursera course.
